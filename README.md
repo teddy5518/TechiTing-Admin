@@ -64,7 +64,7 @@ Member tab: Users can manage the people who have applied for seminars through th
 - SDWebImage(https://github.com/SDWebImage/SDWebImage)
 ```
 
-## 참여자
+## Participants
 | 📎TED [Team Leader]<br/>[@teddy5518](https://github.com/teddy5518)<br/> | 📎Jungsun Park<br/> [@JSPark0099](https://github.com/JSPark0099)<br/> | 📎Yeri Hwang<br/>[@hwangyeri](https://github.com/hwangyeri)<br/> | 📎Changhwi Ryu<br/> [@ryuchanghwi](https://github.com/ryuchanghwi)<br/> | 📎Tech!Ting<br/> [](https://github.com)<br/> |
 | :----------------------------------------------------------: | :---------------------------------------------: | :-------------------------------------------------: |:----------------------------------------------------------: |:----------------------------------------------------------: |
 |<img src="https://avatars.githubusercontent.com/u/108975398?v=4" width=200> | <img src="https://avatars.githubusercontent.com/u/91583287?v=4" width=200>  | <img src="https://avatars.githubusercontent.com/u/114602459?v=4" width=200> | <img src="https://avatars.githubusercontent.com/u/78063938?v=4" width=200> | <img src="https://user-images.githubusercontent.com/114331071/209800942-616496f5-b675-4a98-8fd2-4df86958fd5e.png" width=200> |
