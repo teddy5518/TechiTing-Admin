@@ -12,10 +12,9 @@ Employees of Likelion registering for seminars to be held at Likelion
 ## App Installation and Execution Guide
 
 ```
-If you need to run the app, please request the "GoogleService-Info.plist" file 
-through elinholic95@icloud.com or onthelots@naver.com.
+To run the app, please request the "GoogleService-Info.plist" file through spark220@gmu.edu, elinholic95@icloud.com, or onthelots@naver.com.
 ```
-```
+
 If you only need a simple app installation without the above file, we request the bundle ID setting as follows:
 com.codelion.big-project-c-admin-ipados-JS
 ```
